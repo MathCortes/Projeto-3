@@ -13,3 +13,12 @@ Existem dezenas de personalizações possíveis no seu anúncio, desde quantidad
 Construir um modelo de previsão de preço que permita uma pessoa comum que possui um imóvel possa saber quanto deve cobrar pela diária do seu imóvel.
 
 Ou ainda, para o locador comum, dado o imóvel que ele está buscando, ajudar a saber se aquele imóvel está com preço atrativo (abaixo da média para imóveis com as mesmas características) ou não.
+
+# Temas Abordados
+
+- Exploratory Data Analysis 
+- Tratamento de Dados (Missing Values, Outliers, DataType, etc.)
+- Encoding
+- Modelos de Regressão: RandomForest, LinearRegression, ExtraTree, LinearSVR, DecisionTreeRegressor
+- Melhorias do Modelo
+- Análise Modelo
